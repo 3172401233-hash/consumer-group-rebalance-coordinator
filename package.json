@@ -1,0 +1,11 @@
+{
+  "name": "consumer-group-rebalance-coordinator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Consumer group rebalance coordinator with generation fencing and cooperative revocation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node examples/demo.js"
+  }
+}
